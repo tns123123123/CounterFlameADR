@@ -1,0 +1,19 @@
+{
+  "version": 104,
+  "version_name": "1.4.1-OTA.104",
+  "notes": "Sửa lỗi Import & Share cấu hình (.cfg) trên Android (chọn file hệ thống, Clipboard & tương thích .cfg iOS)",
+  "maintenance": true,
+  "maintenance_title": "Bảo trì hệ thống",
+  "maintenance_message": "Máy chủ đang tạm dừng để bảo trì và nâng cấp hệ thống. Vui lòng quay lại sau!",
+  "maintenance_url": "https://t.me/RAVENiOSPORTAL",
+  "so_url": "libcfpayload.so.gz",
+  "so_sha256": "bf026b5ca9b72aa795219f91b82c6a555e2c0385844c0e996df819ba536f0c85",
+  "so_size": 33393960,
+  "so_gz_sha256": "2e63f3742b80a7de1c99f477dfa665d881e2b50f51cfd623bf9eb3a0681821b9",
+  "so_gz_size": 27368302,
+  "gzip": true,
+  "dex_url": "rb.dex",
+  "dex_sha256": "20e3fa796b62669930455d6e9c689c410c9b9792b52b97ff7a970f85f9912a7b",
+  "dex_size": 130968,
+  "repository": "https://github.com/tns123123123/CounterFlameADR"
+}
